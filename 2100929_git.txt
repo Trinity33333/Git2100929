@@ -1,9 +1,13 @@
 Git-1
 Git-2
 Git-3
+<<<<<<< HEAD
 branch/Main/첫번째분기점
 <<<<<<< HEAD
 branch/Main/두번째분기점
 =======
 branch/second/두번째분기점
 >>>>>>> branch/second
+=======
+branch/First/첫번째 분기점
+>>>>>>> branch/first
